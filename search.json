@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I work on problems related to precision poultry nutrition, stochastic feed formulation, and nutrient variability."
+  },
+  {
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "Research",
+    "section": "Current Projects",
+    "text": "Current Projects\n\nStochastic Feed Formulation — integrating nutrient variability into diet models.\nSoybean Meal Quality — modeling processing effects on digestibility.\nBroiler Breeder Precision Nutrition — evaluating nutritional strategies under heat stress.\nNutrient Variability in Feed Ingredients — quantifying and classifying variability in nutrient profiles."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About Me\nI’m a Ph.D. candidate in Poultry Science & Nutrition, focusing on feed formulation, nutrient modeling, and precision agriculture."
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Code & Tools",
+    "section": "",
+    "text": "Linear programming models in R/Python\nNon-linear programming tool?\nNIRS-based nutrient variability visualizations"
+  },
+  {
+    "objectID": "code.html#feed-formulation",
+    "href": "code.html#feed-formulation",
+    "title": "Code & Tools",
+    "section": "",
+    "text": "Linear programming models in R/Python\nNon-linear programming tool?\nNIRS-based nutrient variability visualizations"
+  },
+  {
+    "objectID": "code.html#interactive-modules-future",
+    "href": "code.html#interactive-modules-future",
+    "title": "Code & Tools",
+    "section": "Interactive Modules (Future)",
+    "text": "Interactive Modules (Future)\n\nHopefully Shiny or Plotly examples will live here"
+  },
+  {
+    "objectID": "caleb-m-marshall.github.io.html",
+    "href": "caleb-m-marshall.github.io.html",
+    "title": "caleb-m-marshall.github.io",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "caleb-m-marshall.github.io.html#quarto",
+    "href": "caleb-m-marshall.github.io.html#quarto",
+    "title": "caleb-m-marshall.github.io",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Hi, I’m Caleb Marshall. I’m currently a Ph.D student at North Carolina State University in the Prestage Department of Poultry Science.\nThis site is to share some of my research, blog posts, etc."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "testing the blog function"
+  }
+]
