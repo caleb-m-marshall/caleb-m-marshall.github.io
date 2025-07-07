@@ -11,7 +11,7 @@ This page showcases selected academic presentations, grouped by conference.
 
 **Year**: 2025\
 **Format**: Poster\
-[<img src="presentations/ESPN2025_Abstract292_thumb.jpg" width="400">](presentations/ESPN2025_Abstract292.pptx)  
+[<img src="presentations/ESPN2025_Abstract292_thumb.jpg" class="poster-thumb">](presentations/ESPN2025_Abstract292.pptx)  
 🔗 [Download PowerPoint](presentations/ESPN2025_Abstract292.pptx)
   
   
@@ -19,7 +19,7 @@ This page showcases selected academic presentations, grouped by conference.
 
 **Year**: 2025\
 **Format**: Poster\
-[<img src="presentations/ESPN2025_Abstract293_thumb.jpg" width="400">](presentations/ESPN2025_Abstract293.pptx)  
+[<img src="presentations/ESPN2025_Abstract293_thumb.jpg" class="poster-thumb">](presentations/ESPN2025_Abstract293.pptx)  
 🔗 [Download PowerPoint](presentations/ESPN2025_Abstract293.pptx)  
 
 
