@@ -1,0 +1,8 @@
+---
+title: "About"
+format: html
+---
+
+# About Me
+
+I'm a Ph.D. candidate in Poultry Science & Nutrition, focusing on feed formulation, nutrient modeling, and precision agriculture. 

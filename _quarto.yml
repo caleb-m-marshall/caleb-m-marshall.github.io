@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "Caleb M. Marshall"
@@ -13,6 +14,8 @@ website:
         text: Blog
       - href: code.qmd
         text: Code
+      - href: about.qmd
+        text: About
     right:
       - icon: github
         href: https://github.com/caleb-m-marshall

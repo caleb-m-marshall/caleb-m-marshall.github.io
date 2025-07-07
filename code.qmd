@@ -1,0 +1,16 @@
+---
+title: "Code & Tools"
+format: html
+---
+
+# Code & Tools
+
+## Feed Formulation
+
+- Linear programming models in R/Python
+- Non-linear programming tool?
+- NIRS-based nutrient variability visualizations
+
+## Interactive Modules (Future)
+
+- Hopefully Shiny or Plotly examples will live here

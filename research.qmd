@@ -1,0 +1,15 @@
+---
+title: "Research"
+format: html
+---
+
+# Research
+
+I work on problems related to precision poultry nutrition, stochastic feed formulation, and nutrient variability.
+
+## Current Projects
+
+- **Stochastic Feed Formulation** — integrating nutrient variability into diet models.
+- **Soybean Meal Quality** — modeling processing effects on digestibility.
+- **Broiler Breeder Precision Nutrition** — evaluating nutritional strategies under heat stress.
+- **Nutrient Variability in Feed Ingredients** — quantifying and classifying variability in nutrient profiles.
