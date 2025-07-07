@@ -3,8 +3,6 @@ title: "Research"
 format: html
 ---
 
-# Research
-
 I work on problems related to precision poultry nutrition, stochastic feed formulation, and nutrient variability.
 
 ## Current Projects

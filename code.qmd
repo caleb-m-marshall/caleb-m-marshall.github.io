@@ -3,8 +3,6 @@ title: "Code & Tools"
 format: html
 ---
 
-# Code & Tools
-
 ## Feed Formulation
 
 - Linear programming models in R/Python

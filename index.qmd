@@ -3,8 +3,6 @@ title: "Welcome"
 format: html
 ---
 
-# Welcome
-
 Hi, I’m Caleb Marshall. I'm currently a Ph.D student at North Carolina State University in the Prestage Department of Poultry Science.   
 This site is to share some of my research, blog posts, etc.
 
